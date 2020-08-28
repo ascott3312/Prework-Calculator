@@ -1,0 +1,12 @@
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.csprojAssemblyReference.cache
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.AssemblyInfoInputs.cache
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.AssemblyInfo.cs
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.csproj.CoreCompileInputs.cache
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/bin/Debug/netcoreapp3.1/Prework_Calculator.deps.json
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/bin/Debug/netcoreapp3.1/Prework_Calculator.runtimeconfig.json
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/bin/Debug/netcoreapp3.1/Prework_Calculator.runtimeconfig.dev.json
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/bin/Debug/netcoreapp3.1/Prework_Calculator.dll
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/bin/Debug/netcoreapp3.1/Prework_Calculator.pdb
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.dll
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.pdb
+/Users/andrewscott/codefellows/401/Prework-Calculator/Prework_Calculator/Prework_Calculator/obj/Debug/netcoreapp3.1/Prework_Calculator.genruntimeconfig.cache
